@@ -1,4 +1,4 @@
-# Unity-VR-Teleportation-Demo
+# Unity VR Teleportation Demo
 This project is a simple demo of the Teleportation mechanic for Unity VR navigation.
 
 Key features include: 
